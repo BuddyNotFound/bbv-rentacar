@@ -3,7 +3,7 @@ CreateThread(function()
     LoadConfigCars()
 end)
 
---// Functions \\--
+--// Functions \\ -- UI BUILD BY NEENGAME
 
 function RentACar(bool)
     SetNuiFocus(true, true)

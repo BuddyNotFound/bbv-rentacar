@@ -1,6 +1,6 @@
 let Table = []
 let Opened = false
-
+// UI BUILD BY NEENGAME
 function TriggerClasses(cars) {
     for (var i=0; i < cars.length; i++) {
         let elementId = cars[i].name
