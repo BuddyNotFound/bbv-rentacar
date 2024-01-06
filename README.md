@@ -2,7 +2,7 @@
 
 ---
 
-**|  Preview : **
+**|  Preview : https://streamable.com/ua4gdx**
 **|   Tebex : https://bbv.world**
 
 ---
