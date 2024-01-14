@@ -93,6 +93,7 @@ function Main:SpawnVeh(coords,model,isnetworked,test)
             SetEntityAlpha(Main.Vehs[coords], i)
             Wait(10)
         end
+        ResetEntityAlpha(Main.Vehs[coords])
         FreezeEntityPosition(Main.Vehs[coords],false)
     end
     if test then
